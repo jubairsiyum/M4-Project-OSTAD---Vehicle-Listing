@@ -1,1 +1,17 @@
 
+[
+    {
+        "id": "1",
+        "name": "Toyota Corolla",
+        "type": "Sedan",
+        "price": 20000,
+        "image": "toyota_corolla.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Honda Civic",
+        "type": "Sedan",
+        "price": 22000,
+        "image": "honda_civic.jpg"
+    }
+]
